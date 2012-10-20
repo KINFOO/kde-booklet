@@ -60,6 +60,7 @@ _KOrganizer_ vous permet de gérer votre agenda et votre liste de taches à fair
 _Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible  d'avoir 
 une vue générale rapide de toutes les applications de Kontact en utilisant la 
 vue résumée. Ne ratez plus jamais un rendez-vous!
+
 ![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer in action")
 
 ## KDE Edu
