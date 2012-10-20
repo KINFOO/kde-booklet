@@ -30,16 +30,17 @@ Active_ adapted to consumer electronics.
 
 ![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
 
-## Activities
+## Activités
 
-You use your laptop at work and at home? Activities are made for you.
-You may plan your next vacations, write a report, work on your photos, etc.
-You probably need a different set of applications per activity. Simply save
-the current context, and reload it when you want. Also while you are busy
-with an activity, you are not interrupted by the other activities, it is
-much easier to focus.
+Vous utilisez votre ordinateur portable au travail et à la maison? Les
+activités sont faites pour vous. Vous voulez peut-être préparer vos prochaines
+vacances, écrire un rapport, travailler sur vos photos, etc. Vous avez
+probablement besoin d'un ensemble d'applications différent par activité. Sauvez
+simplement le contexte courant puis retrouvez le quand vous le voudrez. De
+plus, lorsque vous êtes occupé par une activité, vous n'êtes pas interrompu
+par les autres activités, il est bien plus facile de se concentrer.
 
-![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Defining an activity")
+![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Définir une activité")
 
 ## Calligra
 
