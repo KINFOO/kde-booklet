@@ -18,14 +18,14 @@ promotion, artwork and much more.
 Kind regards,
 KDE.
 
-## KDE Workspaces
+## Plasma Workspaces
 
-_KDE Workspaces_ gathers several Desktop environments. First of all, a desktop
-environment is the graphical implementation which enables to interact with your
-operating system. KDE Workspaces contains two implementations. The most famous
-is _Plasma Desktop Workspace_, which is the implementation tailored for
-_desktop and laptop_ computers. There is also another implementation for _small
-screens_: _Plasma Netbook Workspace_.
+_Plasma Workspaces_ gather several user focused environments. Each of those
+environments provides the tools necessary to interact with your devices.
+Plasma Workspaces contains several environment variants. The most famous is
+_Plasma Desktop_, which is tailored for _desktop and laptop_ computers. There
+are also _Plasma Netbook_ better suited for _small screens_, and _Plasma
+Active_ adapted to consumer electronics.
 
 ![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
 
