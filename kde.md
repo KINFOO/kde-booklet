@@ -43,10 +43,11 @@ much easier to focus.
 ## Calligra
 
 Every worthy desktop environment has its own office software suite, _Calligra_
-is KDE _work applications suite_. It got it all _Calligra Words_ for word
-processing, _Krita_ for image advanced processing, _Calligra Stage_ for
-presentations, _Calligra Sheets_ for spreadsheets and even more. This suite
-is mature and can help you to perform your daily tasks.
+is a _productivity and artistic suite_. It got it all _Calligra Words_ for word
+processing, _Calligra Stage_ for presentations, _Calligra Sheets_ for
+spreadsheets, _Krita_ for sketching and painting, _Karbon_ for vector graphics
+and even more. This suite is mature and can help you to perform your daily
+tasks.
 
 ![Krita](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/Krita-showing-the-brush-config-dialog-500x332.png "Krita showing the brush config dialog")
 
