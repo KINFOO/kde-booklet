@@ -62,7 +62,7 @@ _Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible d'avoir
 un aperçu rapide de toutes les applications de Kontact en utilisant la vue
 résumé. Ne ratez plus jamais un rendez-vous!
 
-![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer in action")
+![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer en action")
 
 ## KDE Edu
 
@@ -74,7 +74,7 @@ permettant à un enfant d'apprendre l'alphabet, à un étudiant d'utiliser un
 simulateur physique, etc. Grâce à KDE Edu, chacun peut apprendre à son rythme
 de manière ludique.
 
-![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
+![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Apprenez la géographie")
 
 ## Links
 
