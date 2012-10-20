@@ -21,14 +21,14 @@ KDE.
 
 ## Plasma Workspaces
 
-_Plasma Workspaces_ gather several user focused environments. Each of those
-environments provides the tools necessary to interact with your devices.
-Plasma Workspaces contains several environment variants. The most famous is
-_Plasma Desktop_, which is tailored for _desktop and laptop_ computers. There
-are also _Plasma Netbook_ better suited for _small screens_, and _Plasma
-Active_ adapted to consumer electronics.
+_Plasma Workspaces_ rassemble plusieurs environements centrés sur
+l'utilisateur. Chacun d'entre eux fourni les outils indispendables pour
+interagir avec vos appareils. Plasma Workspaces se décline en plusieurs
+versions. La plus célèbre est _Plasma Desktop_ conçue pour les ordinateurs
+_fixes et portables_. Il existe également _Plasma Netbook_ adapté aux _petits
+écrans_, ainsi que _Plasma Active_ pour l'électronique grand public.
 
-![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
+![Dolphin dans KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Explorer des fichiers dans KDE 4.9")
 
 ## Activités
 
@@ -78,7 +78,7 @@ de manière ludique.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Apprenez la géographie")
 
-## Links
+## Liens
 
 * [KDE](http://www.kde.org)
 * [Calligra](http://www.calligra.org)
