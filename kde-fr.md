@@ -54,24 +54,25 @@ tasks.
 
 ## Kontact
 
-La _gestion de vos informations personelles_ n'a jamais été aussi facile. 
-_Kontact_ possède une application pour chacun de vos besoins. _KMail_ vous 
-permet d'utiliser les plus avancées des fonctionnalités concernant vos emails. 
-_KOrganizer_ vous permet de gérer votre agenda et votre liste de taches à faire. 
-_Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible  d'avoir 
-une vue générale rapide de toutes les applications de Kontact en utilisant la 
-vue résumée. Ne ratez plus jamais un rendez-vous!
+La _gestion de vos informations personnelles_ n'a jamais été aussi facile.
+_Kontact_ possède une application pour chacun de vos besoins. _KMail_ vous
+permet de gérer vos emails en utilisant des fonctionnalités innovantes.
+_KOrganizer_ vous permet de gérer votre agenda et votre liste de tâches à faire.
+_Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible d'avoir
+un aperçu rapide de toutes les applications de Kontact en utilisant la vue
+résumé. Ne ratez plus jamais un rendez-vous!
 
 ![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer in action")
 
 ## KDE Edu
 
-Le but de _KDE Edu_ est simple mais ambitieux : `Logiciels libres d'éducation 
-basés sur les technologies KDE`. C'est fait pour toutes les étapes de l'éducation, des enfants
-aux professeurs et parents. Il y a un large panel d'applications qui permet 
-à un enfant d'apprendre l'alphabet, un étudiant d'université d'utiliser un simulateur 
-physique, etc. Grâce à KDE Edu, chacun peut apprendre à son rythme de manière pleinement 
-ludique.
+Le but de _KDE Edu_ est simple mais ambitieux : `mettre à disposition
+Logiciels Libres éducatifs basés sur les technologies KDE`. Ces logiciels
+sont conçus pour toutes les acteurs de l'éducation, des enfants aux
+professeurs en passant par les parents. Il y a un large panel d'applications
+permettant à un enfant d'apprendre l'alphabet, à un étudiant d'utiliser un
+simulateur physique, etc. Grâce à KDE Edu, chacun peut apprendre à son rythme
+de manière ludique.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
 
