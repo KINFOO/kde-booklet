@@ -49,7 +49,7 @@ spreadsheets, _Krita_ for sketching and painting, _Karbon_ for vector graphics
 and even more. This suite is mature and can help you to perform your daily
 tasks.
 
-![Krita](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/Krita-showing-the-brush-config-dialog-500x332.png "Krita showing the brush config dialog")
+![Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "A presentation with stage")
 
 ## Kontact
 
