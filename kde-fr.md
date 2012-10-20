@@ -53,13 +53,13 @@ tasks.
 
 ## Kontact
 
-_Personal Information Management_ has never been this easy. _Kontact_ contains
-an application for each aspect of your personal information. _KMail_ provides
-you the most advanced email features. _KOrganizer_ allows you to handle your
-agenda and todos. _Akregator_ gather all your RSS feeds. It is even possible
-to have a quick overview of all Kontact applications using the summary view.
-Never miss an appointment again!
-
+La _gestion de vos informations personelles_ n'a jamais été aussi facile. 
+_Kontact_ possède une application pour chacun de vos besoins. _KMail_ vous 
+permet d'utiliser les plus avancées des fonctionnalités concernant vos emails. 
+_KOrganizer_ vous permet de gérer votre agenda et votre liste de taches à faire. 
+_Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible  d'avoir 
+une vue générale rapide de toutes les applications de Kontact en utilisant la 
+vue résumée. Ne ratez plus jamais un rendez-vous!
 ![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer in action")
 
 ## KDE Edu
