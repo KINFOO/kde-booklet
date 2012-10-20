@@ -66,9 +66,9 @@ vue résumée. Ne ratez plus jamais un rendez-vous!
 ## KDE Edu
 
 Le but de _KDE Edu_ est simple mais ambitieux : `Logiciels libres d'éducation 
-basés sur les technologies KDE`. C'est fait pour tous les aspects de l'éducation,
-aux professeurs et parents. Il y a un large panel d'applications qui peut permettre 
-à un enfant à apprendre l'alphabet, un étudiant d'université d'utiliser un simulateur 
+basés sur les technologies KDE`. C'est fait pour toutes les étapes de l'éducation, des enfants
+aux professeurs et parents. Il y a un large panel d'applications qui permet 
+à un enfant d'apprendre l'alphabet, un étudiant d'université d'utiliser un simulateur 
 physique, etc. Grâce à KDE Edu, chacun peut apprendre à son rythme de manière pleinement 
 ludique.
 
