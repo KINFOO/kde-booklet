@@ -8,10 +8,10 @@ focus will be on _Plasma Workspaces_, still there are some hints to let you
 discover more at the end of this guide.
 
 The following is all about showing you how neat and efficient Plasma Desktop
-is. We will have an overview of applications and concepts which make you fell
-confortable and productive. Let you customise anything is KDE way of life,
+is. We will have an overview of applications and concepts which make you feel
+confortable and productive. Let you customize anything is the KDE way of life,
 we hope you will enjoy it. If you are in the mood to contribute, know that
-your can collaborate in many ways such as traduction, promotion, art-work
+you can collaborate in many ways such as traduction, promotion, artwork
 and much more.
 
 The KDE Team.
@@ -27,29 +27,29 @@ screens_: _Plasma Netbook Workspace_.
 
 ![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
 
-### Activites
+## Activites
 
 When you do something on your computer, there is often a set of applications
-helping you with your task. This is where  _activities_ come in. This feature
+helping you with your task. This is where _activities_ come in. This feature
 enables you to define a layout of application to focus easely.
 
-![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Defining an activity")  
+![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Defining an activity")
 
 ## Calligra
 
 Every worthy desktop environment has it own office software suite, _Calligra_
 is KDE _work applications suite_. It got it all _Calligra Words_ for word
 processing, _Krita_ for image advanced processing, _Calligra Stage_ for
-presentations, _Calligra Sheets_ for spread sheets and even more. This suite
+presentations, _Calligra Sheets_ for spreadsheets and even more. This suite
 is mature and can help you to perform your daily tasks.
 
 ![Krita](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/Krita-showing-the-brush-config-dialog-500x332.png "Krita showing the brush config dialog")
 
 ## Kontact
 
-_Personal Information Management_ never been this easy. _Kontact_ contain an
+_Personal Information Management_ never been this easy. _Kontact_ contains an
 application for each aspect of your personal information. _KMail_ provides you
-the most advanced e-mail features. _KOrganizer_ permit you to handle your
+the most advanced email features. _KOrganizer_ allows you to handle your
 agenda on your Desktop. _Akregator_ gather all your RSS feeds. It is even
 possible to have a quick overview of all Kontact applications using _Summary_
 which display all new events.
@@ -59,12 +59,12 @@ which display all new events.
 ## KDE Edu
 
 The goal of _KDE Edu_ is simple but great: `Free Educational Software based on
-the KDE technologies`. It is dedicated to  all aspects of eductation from
+the KDE technologies`. It is dedicated to all aspects of eductation from
 kindergarten to college, to children to teachers including parents. There is a
-wide range of applications which can help a child to discover the alphaber, a
+wide range of applications which can help a child to discover the alphabet, a
 college student to simulate physics.
 
-![KGeographt](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
+![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
 
 ## Links
 
