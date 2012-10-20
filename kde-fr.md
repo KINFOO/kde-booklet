@@ -49,7 +49,7 @@ _Calligra_ est à la fois _bureautique et artistique_. Elle couvre tous les
 domaines, _Calligra Words_  pour le traitement de texte, _Calligra Stage_ pour
 les presentations, _Calligra Sheets_ pour les feuilles de calculs, _Krita_ pour
 dessiner et peindre, _Karbon_ pour le graphisme vectoriel et bien plus encore.
-Cette suite est mûre et vous permet pleinement de mener à bien vos taches
+Cette suite est mûre et vous permet de pleinement mener à bien vos tâches
 quotidiennes.
 
 ![Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "Une présentation avec Stage.")
