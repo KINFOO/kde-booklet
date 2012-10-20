@@ -18,7 +18,7 @@ promotion, artwork and much more.
 Kind regards,
 KDE.
 
-## KDE Workspace
+## KDE Workspaces
 
 _KDE Workspaces_ gathers several Desktop environments. First of all, a desktop
 environment is the graphical implementation which enables to interact with your
@@ -29,7 +29,7 @@ screens_: _Plasma Netbook Workspace_.
 
 ![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
 
-## Activites
+## Activities
 
 When you do something on your computer, there is often a set of applications
 helping you with your task. This is where _activities_ come in. This feature
