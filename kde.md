@@ -2,19 +2,21 @@
 
 Hi,
 
-This quick guide aims to help you discovering KDE. KDE is composed of several
-entities, the most famous being its Community and Plasma Workspaces. Here, the
-focus will be on _Plasma Workspaces_, still there are some hints to let you
-discover more at the end of this guide.
+KDE is a community of technologists, designers, writers and advocates which
+ensures the availability of free software usable by anyone. Its most famous
+products are the _Plasma Workspaces_. In this short guide, the focus will
+be on those workspaces, still  there are some hints to let you discover more
+at the end of this guide.
 
 The following is all about showing you how neat and efficient Plasma Desktop
 is. We will have an overview of applications and concepts which make you feel
-confortable and productive. Let you customize anything is the KDE way of life,
-we hope you will enjoy it. If you are in the mood to contribute, know that
-you can collaborate in many ways such as traduction, promotion, artwork
-and much more.
+comfortable and productive. Allowing you to adapt the software to your needs
+is the KDE way of life, we hope you will enjoy it. If you are in the mood to
+contribute, know that you can collaborate in many ways such as translation,
+promotion, artwork and much more.
 
-The KDE Team.
+Kind regards,
+KDE.
 
 ## KDE Workspace
 
