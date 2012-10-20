@@ -44,12 +44,13 @@ par les autres activités, il est bien plus facile de se concentrer.
 
 ## Calligra
 
-Every worthy desktop environment has its own office software suite, _Calligra_
-is a _productivity and artistic suite_. It got it all _Calligra Words_ for word
-processing, _Calligra Stage_ for presentations, _Calligra Sheets_ for
-spreadsheets, _Krita_ for sketching and painting, _Karbon_ for vector graphics
-and even more. This suite is mature and can help you to perform your daily
-tasks.
+Tout environnement de bureau qui se respecte possède sa suite bureautique,
+_Calligra_ est à la fois _bureautique et artistique_. Elle couvre tous les
+domaines, _Calligra Words_  pour le traitement de texte, _Calligra Stage_ pour
+les presentations, _Calligra Sheets_ pour les feuilles de calculs, _Krita_ pour
+dessiner et peindre, _Karbon_ pour le graphisme vectoriel et bien plus encore.
+Cette suite est mûre et vous permet pleinement de mener à bien vos taches
+quotidiennes.
 
 ![Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "Une présentation avec Stage.")
 
