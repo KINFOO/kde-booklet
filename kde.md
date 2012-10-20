@@ -31,9 +31,12 @@ Active_ adapted to consumer electronics.
 
 ## Activities
 
-When you do something on your computer, there is often a set of applications
-helping you with your task. This is where _activities_ come in. This feature
-enables you to define a layout of application to focus easely.
+You use your laptop at work and at home? Activities are made for you.
+You may plan your next vacations, write a report, work on your photos, etc.
+You probably need a different set of applications per activity. Simply save
+the current context, and reload it when you want. Also while you are busy
+with an activity, you are not interrupted by the other activities, it is
+much easier to focus.
 
 ![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Defining an activity")
 
