@@ -65,10 +65,11 @@ Never miss an appointment again!
 ## KDE Edu
 
 The goal of _KDE Edu_ is simple but great: `Free Educational Software based on
-the KDE technologies`. It is dedicated to all aspects of eductation from
-kindergarten to college, to children to teachers including parents. There is a
-wide range of applications which can help a child to discover the alphabet, a
-college student to simulate physics.
+the KDE technologies`. It is dedicated to all aspects of education from
+kindergarten to college, from children to teachers and parents. There is a wide
+range of applications which can help a child to discover the alphabet, a
+college student to simulate physics, etc. Thanks to KDE Edu everyone can learn
+in a playful way.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
 
