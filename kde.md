@@ -37,7 +37,7 @@ enables you to define a layout of application to focus easely.
 
 ## Calligra
 
-Every worthy desktop environment has it own office software suite, _Calligra_
+Every worthy desktop environment has its own office software suite, _Calligra_
 is KDE _work applications suite_. It got it all _Calligra Words_ for word
 processing, _Krita_ for image advanced processing, _Calligra Stage_ for
 presentations, _Calligra Sheets_ for spreadsheets and even more. This suite
