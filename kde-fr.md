@@ -1,21 +1,22 @@
 # KDE
 
-Hi,
+Bonjour,
 
-KDE is a community of technologists, designers, writers and advocates which
-ensures the availability of free software usable by anyone. Its most famous
-products are the _Plasma Workspaces_. In this short guide, the focus will
-be on those workspaces, still  there are some hints to let you discover more
-at the end of this guide.
+KDE est une communauté de technologistes, designers, écrivains et enthousiastes
+qui assurent la disponibilité de logiciel libre utilisable par le grand public.
+Ses produits les plus populaires sont les _Plasma Workspaces_. Dans ce petit
+guide, bien que nous nous focaliserons sur ces espaces de travail, nous
+donnerons quelques pistes pour découvrir les autres produits de la communauté.
 
-The following is all about showing you how neat and efficient Plasma Desktop
-is. We will have an overview of applications and concepts which make you feel
-comfortable and productive. Allowing you to adapt the software to your needs
-is the KDE way of life, we hope you will enjoy it. If you are in the mood to
-contribute, know that you can collaborate in many ways such as translation,
-promotion, artwork and much more.
+La suite se concentre principalement sur ce qui rend Plasma Desktop plaisant
+et efficace. Nous aurons un aperçu des concepts et applications qui assureront
+votre confort et votre productivité. Permettre l'adaptation du logiciel à ses
+besoins est la grande force des produits KDE, nous espérons que cela vous
+plaira. Si vous êtes d'humeur à contribuer, sachez que vous pouvez collaborer
+de bien des manières telles que la traduction, la promotion ou encore la
+production artistique.
 
-Kind regards,
+Amicalement,
 KDE.
 
 ## Plasma Workspaces
