@@ -10,7 +10,7 @@ at the end of this guide.
 
 The following is all about showing you how neat and efficient Plasma Desktop
 is. We will have an overview of applications and concepts which make you feel
-comfortable and productive. Allowing you to adapt the software to your needs
+comfortable and efficient. Allowing you to adapt the software to your needs
 is the KDE way of life, we hope you will enjoy it. If you are in the mood to
 contribute, know that you can collaborate in many ways such as translation,
 promotion, artwork and much more.
@@ -27,14 +27,14 @@ _Plasma Desktop_, which is tailored for _desktop and laptop_ computers. There
 are also _Plasma Netbook_ better suited for _small screens_, and _Plasma
 Active_ adapted to consumer electronics.
 
-![Dolphin in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files in KDE 4.9")
+![Dolphin](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-dolphin_.png "Browsing files with Dolphin")
 
 ## Activities
 
 You use your laptop at work and at home? Activities are made for you.
 You may plan your next vacations, write a report, work on your photos, etc.
-You probably need a different set of applications per activity. Simply save
-the current context, and reload it when you want. Also while you are busy
+You certainly need a different set of applications per activity. Simply save
+the current environment, and reload it when you want. Also while you are busy
 with an activity, you are not interrupted by the other activities, it is
 much easier to focus.
 
@@ -42,14 +42,13 @@ much easier to focus.
 
 ## Calligra
 
-Every worthy desktop environment has its own office software suite, _Calligra_
-is a _productivity and artistic suite_. It got it all _Calligra Words_ for word
-processing, _Calligra Stage_ for presentations, _Calligra Sheets_ for
-spreadsheets, _Krita_ for sketching and painting, _Karbon_ for vector graphics
-and even more. This suite is mature and can help you to perform your daily
-tasks.
+Do you wish to use a free office software suite? _Calligra_ is a _productivity
+and artistic suite_. It got it all _Calligra Words_ for word processing,
+_Calligra Stage_ for presentations, _Calligra Sheets_ for spreadsheets, _Krita_
+for sketching and painting, _Karbon_ for vector graphics and even more. This
+suite is mature and can help you to perform your daily tasks.
 
-![Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "A presentation with stage")
+![Calligra Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "A presentation with Calligra Stage")
 
 ## Kontact
 
