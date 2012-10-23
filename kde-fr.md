@@ -80,9 +80,20 @@ de manière ludique, sur des thématiques très variées.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Apprenez la géographie")
 
+## Affichez votre passion pour KDE
+
+Vous pouvez nous aider très concrètement avec vos dons. Votre contribution
+financera des réunions et des infrastructures au profit de la  communauté KDE.
+Cela maintient vos logiciels sûrs pour l'avenir. Mais cela permet aussi une
+prise de conscience en faveur du Logiciel Libre et de la Culture Libre. Enfin,
+vos dons nous permettent d'organiser nos conférences annuels « Akademy »,
+« Camp KDE » et « KDE.in ». Devenez un membre de KDE pour seulement 100 euros
+par an, Join the Game !
+
 ## Liens
 
 * [KDE](http://www.kde.org)
 * [Calligra](http://www.calligra.org)
 * [Kontact](http://userbase.kde.org/Kontact)
 * [KDE Edu](http://edu.kde.org)
+* [KDE's Join the Game](http://jointhegame.kde.org)
