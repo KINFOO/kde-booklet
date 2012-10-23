@@ -2,8 +2,10 @@
 
 Bonjour,
 
-KDE est une communauté de technologistes, designers, écrivains et enthousiastes
-qui assurent la disponibilité de logiciels libres utilisables par le grand public.
+KDE est une communauté de développeurs, designers, traducteurs et enthousiastes
+qui assurent la disponibilité de logiciels libres utilisables par le grand
+public et les entreprises.
+
 Ses produits les plus populaires sont les _Plasma Workspaces_. Dans ce petit
 guide, bien que nous nous focaliserons sur ces espaces de travail, nous
 donnerons quelques pistes pour découvrir les autres créations de la communauté.
@@ -13,8 +15,8 @@ et efficace. Nous aurons un aperçu des concepts et applications qui assureront
 votre confort et votre efficacité. Permettre leur adaptation à vos
 besoins est la grande force des logiciels KDE, nous espérons que cela vous
 plaira. Si vous êtes d'humeur à contribuer, sachez que vous pouvez collaborer
-de bien des manières telles que la traduction, la promotion ou encore la
-production artistique.
+de bien des manières telles que le développement, la traduction, la promotion
+ou encore la production artistique.
 
 Amicalement,
 KDE.
@@ -35,10 +37,10 @@ _fixes et portables_. Il existe également _Plasma Netbook_ adapté aux _petits
 Vous utilisez votre ordinateur portable au travail et à la maison ? Les
 activités sont faites pour vous. Vous voulez peut-être préparer vos prochaines
 vacances, écrire un rapport, travailler sur vos photos, etc. Vous avez
-certainement besoin d'un ensemble d'applications différent par activité. Sauvez
-simplement l'environnement courant puis retrouvez le quand vous le voudrez. De
-plus, lorsque vous êtes occupé par une activité, vous n'êtes pas interrompu
-par les autres activités, il est bien plus facile de se concentrer.
+certainement besoin d'un ensemble d'applications différent par activité.
+Enregistrez simplement l'environnement courant puis retrouvez le quand vous le
+souhaitez. De plus, lorsque vous êtes occupé par une activité, vous n'êtes pas
+interrompu par les autres activités, il est bien plus facile de se concentrer.
 
 ![Activities in KDE 4.9](https://raw.github.com/KINFOO/kde-booklet/master/images/workspaces/kde49-link-files-to-activities-cropped.png "Définir une activité")
 
@@ -48,7 +50,7 @@ Vous souhaitez utiliser une suite bureautique libre ?
 _Calligra_ est à la fois _bureautique et artistique_. Elle couvre tous les
 domaines, _Calligra Words_  pour le traitement de texte, _Calligra Stage_ pour
 les présentations, _Calligra Sheets_ pour les feuilles de calculs, _Krita_ pour
-dessiner et peindre, _Karbon_ pour le graphisme vectoriel et bien plus encore.
+dessiner et peindre, _Karbon_ pour le dessin vectoriel et bien plus encore.
 Cette suite est aboutie et vous permet de pleinement mener à bien vos tâches
 quotidiennes.
 
@@ -58,23 +60,23 @@ quotidiennes.
 
 La _gestion de vos informations personnelles_ n'a jamais été aussi facile.
 _Kontact_ possède une application pour chacun de vos besoins. _KMail_ vous
-permet de gérer vos emails en utilisant des fonctionnalités innovantes.
-_KOrganizer_ vous permet de gérer votre agenda et votre liste de tâches à faire.
-_Akregator_ regroupe l'ensemble de vos flux RSS. Il est même possible d'avoir
-un aperçu rapide de toutes les applications de Kontact en utilisant la vue
-résumé. Ne ratez plus jamais un rendez-vous!
+permet de gérer vos courriers électroniques en utilisant des fonctionnalités
+innovantes. _KOrganizer_ vous permet de gérer votre agenda et vos listes de
+tâches à faire. _Akregator_ regroupe l'ensemble de vos flux RSS. Il est même
+possible d'avoir un aperçu rapide de toutes les applications de Kontact en
+utilisant la vue résumé. Ne ratez plus jamais un rendez-vous!
 
 ![KOrganizer](https://raw.github.com/KINFOO/kde-booklet/master/images/kontact/korganizer.png "KOrganizer en action")
 
 ## KDE Edu
 
-Le but de _KDE Edu_ est simple mais ambitieux : `mettre à disposition des
-Logiciels Libres éducatifs basés sur les technologies KDE`. Ces logiciels
+L'objectif de _KDE Edu_ est simple mais ambitieux : `mettre à disposition des
+Logiciels Libres éducatifs fondés sur les technologies KDE`. Ces logiciels
 sont conçus pour tous les acteurs de l'éducation : les enfants, les
 enseignants, les parents... Il y a un large panel d'applications
 permettant à un enfant d'apprendre l'alphabet, à un étudiant d'utiliser un
 simulateur physique, etc. Grâce à KDE Edu, chacun peut apprendre à son rythme
-de manière ludique, sur des thématiques très variées...
+de manière ludique, sur des thématiques très variées.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Apprenez la géographie")
 
