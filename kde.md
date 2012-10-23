@@ -12,8 +12,8 @@ The following is all about showing you how neat and efficient Plasma Desktop
 is. We will have an overview of applications and concepts which make you feel
 comfortable and efficient. Allowing you to adapt the software to your needs
 is the KDE way of life, we hope you will enjoy it. If you are in the mood to
-contribute, know that you can collaborate in many ways such as translation,
-promotion, artwork and much more.
+contribute, know that you can collaborate in many ways such as development,
+translation, promotion, artwork and much more.
 
 Kind regards,
 KDE.
@@ -46,7 +46,7 @@ Do you wish to use a free office software suite? _Calligra_ is a _productivity
 and artistic suite_. It got it all _Calligra Words_ for word processing,
 _Calligra Stage_ for presentations, _Calligra Sheets_ for spreadsheets, _Krita_
 for sketching and painting, _Karbon_ for vector graphics and even more. This
-suite is mature and can help you to perform your daily tasks.
+suite is very promising and can already help you to perform your daily tasks.
 
 ![Calligra Stage](https://raw.github.com/KINFOO/kde-booklet/master/images/calligra/stage.png "A presentation with Calligra Stage")
 
