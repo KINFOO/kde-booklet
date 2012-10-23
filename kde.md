@@ -72,9 +72,19 @@ in a playful way.
 
 ![KGeography](https://raw.github.com/KINFOO/kde-booklet/master/images/kdeedu/kgeography.png "Learn geography")
 
+## Show your passion for KDE
+
+You can help us concretely with your donations. You contribution will fund
+meetings and infrastructures helping the day to day work of KDE. It secures
+your software choice for the future. It will also allow to spread awareness
+of Free Software and Free Culture. Last but not least, your donations allow
+us to organize our yearly conferences "Akademy", "Camp KDE" and "KDE.in".
+Become a member of KDE for only 100 euros per year, Join the Game!
+
 ## Links
 
 * [KDE](http://www.kde.org)
 * [Calligra](http://www.calligra.org)
 * [Kontact](http://userbase.kde.org/Kontact)
 * [KDE Edu](http://edu.kde.org)
+* [KDE's Join the Game](http://jointhegame.kde.org)
